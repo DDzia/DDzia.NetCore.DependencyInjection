@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DDzia.NetCore.DependencyInjection</id>
+    <version>1.0.0</version>
+    <title>DDzia.NetCore.DependencyInjection</title>
+    <authors>Dzianis Dziarkach</authors>
+    <owners>Dzianis Dziarkach</owners>
+    <licenseUrl>https://github.com/DDzia/DDzia.NetCore.DependencyInjection/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DDzia/DDzia.NetCore.DependencyInjection</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Lot of extensions to NetCore dependency injection system.</description>
+    <releaseNotes>Pack of extensions to NetCore dependency injection system.</releaseNotes>
+    <copyright>Copyright (c) 2019 Dziarkach Dzianis</copyright>
+    <tags>IoC NetCore AspNetCore DI IoCModule DIModule IoCContainer DIContainer</tags>
+  </metadata>
+</package>
