@@ -1,0 +1,23 @@
+pool:
+  vmImage: 'ubuntu-16.04'
+
+trigger: none
+
+pr:
+  branches:
+    include:
+    - master
+
+steps:
+- task: DotNetCoreCLI@2
+  displayName: Restore Packages
+  inputs:
+    command: 'restore'
+    projects: '**/*.csproj'
+
+- task: DotNetCoreCLI@2
+  displayName: Build Solution
+  inputs:
+    command: 'build'
+    projects: '**/*.csproj'
+    arguments: '--configuration Release'
