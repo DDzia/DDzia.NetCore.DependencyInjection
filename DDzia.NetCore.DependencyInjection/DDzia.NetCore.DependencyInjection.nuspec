@@ -8,7 +8,7 @@
     <owners>Dzianis Dziarkach</owners>
     <licenseUrl>https://github.com/DDzia/DDzia.NetCore.DependencyInjection/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/DDzia/DDzia.NetCore.DependencyInjection</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Lot of extensions to NetCore dependency injection system.</description>
     <releaseNotes>Pack of extensions to NetCore dependency injection system.</releaseNotes>
